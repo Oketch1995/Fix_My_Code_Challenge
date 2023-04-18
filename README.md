@@ -1,2 +1,1 @@
-# Fix_My_Code_Challenge
-My code challenge repo
+This project is all about how t fix a code
